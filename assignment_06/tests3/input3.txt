@@ -1,0 +1,4 @@
+create job job1 2
+start job job1
+wait job job1
+exit

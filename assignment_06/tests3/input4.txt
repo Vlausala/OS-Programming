@@ -1,0 +1,6 @@
+create job job1 2
+start job job1
+sleep 3
+stats
+wait job job1
+exit

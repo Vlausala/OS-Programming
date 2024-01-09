@@ -1,0 +1,24 @@
+Job holding structure initialized with size: 2
+Job holding structure initialized with size: 1000
+Job created-> ID: job1, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job2, finished: 0, started: 0, sleep_time: 2
+Stats for jobHolding -> Size of the job array: 2, Number of jobs: 2
+Job-> JobID: job1, Started: 0, Finished: 0, SleepTime: 1
+Job-> JobID: job2, Started: 0, Finished: 0, SleepTime: 2
+Stats for finishedJobs -> Size of the job array: 1000, Number of jobs: 0
+Job started-> ID: job1, started: 1
+Stats for jobHolding -> Size of the job array: 2, Number of jobs: 2
+Job-> JobID: job1, Started: 1, Finished: 0, SleepTime: 1
+Job-> JobID: job2, Started: 0, Finished: 0, SleepTime: 2
+Stats for finishedJobs -> Size of the job array: 1000, Number of jobs: 0
+Sleeping for 2 seconds!
+Job with id job1 finishd with sleep time 1
+Stats for jobHolding -> Size of the job array: 2, Number of jobs: 2
+Job-> JobID: job1, Started: 1, Finished: 1, SleepTime: 1
+Job-> JobID: job2, Started: 0, Finished: 0, SleepTime: 2
+Stats for finishedJobs -> Size of the job array: 1000, Number of jobs: 0
+JobHolding is cleaned and the new size is: 2 and the new count is: 1
+Stats for jobHolding -> Size of the job array: 2, Number of jobs: 1
+Job-> JobID: job2, Started: 0, Finished: 0, SleepTime: 2
+Stats for finishedJobs -> Size of the job array: 1000, Number of jobs: 1
+Job-> JobID: job1, Started: 1, Finished: 1, SleepTime: 1

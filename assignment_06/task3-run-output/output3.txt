@@ -1,0 +1,6 @@
+Job holding structure initialized with size: 2
+Job holding structure initialized with size: 1000
+Job created-> ID: job1, finished: 0, started: 0, sleep_time: 2
+Job started-> ID: job1, started: 1
+Job with id job1 finishd with sleep time 2
+Waited for job job1 and it's now finished.

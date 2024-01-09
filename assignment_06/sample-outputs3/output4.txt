@@ -1,0 +1,10 @@
+Job holding structure initialized with size: 2
+Job holding structure initialized with size: 1000
+Job created-> ID: job1, finished: 0, started: 0, sleep_time: 2
+Job started-> ID: job1, started: 1
+Sleeping for 3 seconds!
+Job with id job1 finishd with sleep time 2
+Stats for jobHolding -> Size of the job array: 2, Number of jobs: 1
+Job-> JobID: job1, Started: 1, Finished: 1, SleepTime: 2
+Stats for finishedJobs -> Size of the job array: 1000, Number of jobs: 0
+Job job1 has not been started yet or it's already finished.

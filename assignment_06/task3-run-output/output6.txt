@@ -1,0 +1,12 @@
+Job holding structure initialized with size: 2
+Job holding structure initialized with size: 1000
+Job created-> ID: job1, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job2, finished: 0, started: 0, sleep_time: 1
+JobHolding is extended to the size 4
+Job created-> ID: job3, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job4, finished: 0, started: 0, sleep_time: 1
+JobHolding is extended to the size 8
+Job created-> ID: job5, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job6, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job7, finished: 0, started: 0, sleep_time: 1
+Job created-> ID: job8, finished: 0, started: 0, sleep_time: 1

@@ -1,0 +1,11 @@
+create job job1 1
+create job job2 2
+stats
+start job job1
+start job job2
+stats
+sleep 3
+stats
+clean
+stats
+exit
